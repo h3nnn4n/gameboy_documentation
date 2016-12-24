@@ -47,4 +47,4 @@ Information on games and cartridges:
 
 Perifericals:
  - [Game Boy Camera documentation](http://antoniond_blog.drunkencoders.com/?p=382), by AntonioND and his [emulator](https://github.com/AntonioND/giibiiadvance)
-
+ - [Ben Heck Reverse Engineers Game Boy Printer](https://www.youtube.com/watch?v=43FfJvd-YP4)
