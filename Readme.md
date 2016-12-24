@@ -41,6 +41,7 @@ Test Roms:
 
 Timings:
  - [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
+ - [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
 
 Information on games and cartridges:
  - [List of game names, size of RAM and ROM, region and cartridge type](http://www.ladecadence.net/trastero/listado%20juegos%20gameboy.html)
