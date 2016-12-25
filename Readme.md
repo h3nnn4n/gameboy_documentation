@@ -38,7 +38,7 @@ General console:
 
 Test Roms:
  - [The famous Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
- - [Gekkio's emulator and test roms(source code only)](https://github.com/Gekkio/mooneye-gb). More info [here](https://gekkio.fi/blog/2015-01-13-mooneye-gb-a-gameboy-emulator-written-in-rust.html)
+ - [Gekkio's emulator and test roms(source code only)](https://github.com/Gekkio/mooneye-gb). More info [here](https://gekkio.fi/blog/2015-01-13-mooneye-gb-a-gameboy-emulator-written-in-rust.html), binary files [here](https://gekkio.fi/files/mooneye-gb/nightly/tests/)
 
 Timings:
  - [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
