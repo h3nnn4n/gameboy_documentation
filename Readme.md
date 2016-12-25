@@ -34,6 +34,7 @@ General console:
  - [Page with loads of information on the actual hardware](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) and some custom boards to interface with the console. Also a [link hub here](http://verhoeven272.nl/fruttenboel/Gameboy/GBlinks.html)
  - [Build log of gmb emulator](https://realboyemulator.wordpress.com/2013/01/01/the-nintendo-game-boy-1/)
  - [Opcode table with timings and flags](http://www.devrs.com/gb/files/opcodes.html)
+ - [CodeSlinger's build log/tutorial](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 
 Test Roms:
  - [The famous Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
