@@ -35,6 +35,13 @@ General console:
  - [Build log of gmb emulator](https://realboyemulator.wordpress.com/2013/01/01/the-nintendo-game-boy-1/)
  - [Opcode table with timings and flags](http://www.devrs.com/gb/files/opcodes.html)
 
+Emulators:
+ - [Wadatsumi, gameboy emulator in Rust, very accurate](https://github.com/mehcode/wadatsumi)
+ - [Gekkio's WIP emulator, based on his research on real hardware](https://github.com/Gekkio/mooneye-gb)
+ - [5kloc emulator in C that passes most of the tests](https://github.com/binji/binjgb)
+ - [BGB, well know Closed Source emulator, accurate and with a builtin debugger](http://bgb.bircd.org/)
+ - [Accurate gameboy emulator, open source](https://github.com/sinamas/gambatte)
+
 Test Roms:
  - [The famous Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
  - [Gekkio's emulator and test roms(source code only)](https://github.com/Gekkio/mooneye-gb). More info [here](https://gekkio.fi/blog/2015-01-13-mooneye-gb-a-gameboy-emulator-written-in-rust.html)
