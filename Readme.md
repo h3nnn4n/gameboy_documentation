@@ -34,6 +34,7 @@ General console:
  - [Page with loads of information on the actual hardware](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) and some custom boards to interface with the console. Also a [link hub here](http://verhoeven272.nl/fruttenboel/Gameboy/GBlinks.html)
  - [Build log of gmb emulator](https://realboyemulator.wordpress.com/2013/01/01/the-nintendo-game-boy-1/)
  - [Opcode table with timings and flags](http://www.devrs.com/gb/files/opcodes.html)
+ - [CodeSlinger's build log/tutorial](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 
 Emulators:
  - [Wadatsumi, gameboy emulator in Rust, very accurate](https://github.com/mehcode/wadatsumi)
@@ -44,7 +45,7 @@ Emulators:
 
 Test Roms:
  - [The famous Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
- - [Gekkio's emulator and test roms(source code only)](https://github.com/Gekkio/mooneye-gb). More info [here](https://gekkio.fi/blog/2015-01-13-mooneye-gb-a-gameboy-emulator-written-in-rust.html)
+ - [Gekkio's emulator and test roms(source code only)](https://github.com/Gekkio/mooneye-gb). More info [here](https://gekkio.fi/blog/2015-01-13-mooneye-gb-a-gameboy-emulator-written-in-rust.html), binary files [here](https://gekkio.fi/files/mooneye-gb/nightly/tests/)
 
 Timings:
  - [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
