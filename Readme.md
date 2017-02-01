@@ -56,6 +56,6 @@ Timings:
 Information on games and cartridges:
  - [List of game names, size of RAM and ROM, region and cartridge type](http://www.ladecadence.net/trastero/listado%20juegos%20gameboy.html)
 
-Perifericals:
+Peripherals:
  - [Game Boy Camera documentation](http://antoniond_blog.drunkencoders.com/?p=382), by AntonioND and his [emulator](https://github.com/AntonioND/giibiiadvance)
  - [Ben Heck Reverse Engineers Game Boy Printer](https://www.youtube.com/watch?v=43FfJvd-YP4)
