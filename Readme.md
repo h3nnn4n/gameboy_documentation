@@ -58,6 +58,9 @@ Timings:
  - [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
  - [STAT interrupt timings](https://gist.github.com/drhelius/33678a2389a5fd0fcaea71eb106dd16c), original [here](http://gameboy.mongenel.com/dmg/istat98.txt)
 
+Sound:
+ - [Gameboy sound system - PAPU](https://emu-docs.org/Game%20Boy/gb_sound.txt)
+
 Information on games and cartridges:
  - [List of game names, size of RAM and ROM, region and cartridge type](http://www.ladecadence.net/trastero/listado%20juegos%20gameboy.html)
  - [Game Boy/Game Boy Color ROMs](http://merwanachibet.net/gameboy-roms.html)
