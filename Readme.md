@@ -17,6 +17,9 @@ for the correctness of the data in this repository.
 The Docs
 ========
 
+Misc:
+ - [How do I write an emulator?](http://www.atarihq.com/danb/files/emu_vol1.txt)
+
 General console:
  - [Pandocs - HTML](http://gbdev.gg8.se/files/docs/mirrors/pandocs.html) and [here](http://gbdev.gg8.se/wiki/articles/Pan_Docs)
  - [Everything You Always Wanted To Know About GAME BOY - but were afraid to ask](http://www.emulatronia.com/doctec/consolas/gameboy/gameboy.txt)
