@@ -42,6 +42,7 @@ Emulators:
  - [5kloc emulator in C that passes most of the tests](https://github.com/binji/binjgb)
  - [BGB, well know Closed Source emulator, accurate and with a builtin debugger](http://bgb.bircd.org/)
  - [Accurate gameboy emulator, open source](https://github.com/sinamas/gambatte)
+ - [How to make a (gameboy) emulator?](https://www.cl.cam.ac.uk/~pv273/slides/emulation.pdf)
 
 Test Roms:
  - [The famous Blargg's test roms](http://gbdev.gg8.se/files/roms/blargg-gb-tests/)
