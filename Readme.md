@@ -35,6 +35,7 @@ General console:
  - [Build log of gmb emulator](https://realboyemulator.wordpress.com/2013/01/01/the-nintendo-game-boy-1/)
  - [Opcode table with timings and flags](http://www.devrs.com/gb/files/opcodes.html)
  - [CodeSlinger's build log/tutorial](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
+ - [Emu-Docs page on the Game Boy](https://emu-docs.org/?page=Game%20Boy)
 
 Emulators:
  - [Wadatsumi, gameboy emulator in Rust, very accurate](https://github.com/mehcode/wadatsumi)
